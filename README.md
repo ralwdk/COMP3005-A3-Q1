@@ -76,7 +76,7 @@ The program displays the students, adds a test student, updates that student's e
 
 Video Demonstration
 
-Video link: \[Add video URL before submitting]
+Video link: \[https://youtu.be/Hs1cLS2ahnc]
 
 The video shows the database setup and all four functions, including the changes in pgAdmin.
 
